@@ -26,3 +26,7 @@ section {
   border-radius: 10px;
   font-weight: 600px;
 }
+.top-banner {
+  background-image: url(images/top-banner.png);
+  background-repeat: no-repeat;
+}
